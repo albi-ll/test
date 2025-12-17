@@ -1,5 +1,5 @@
 class Car:
-    # инициализатор(конструктор)
+    # инициализатор)
     def __init__(self, color, model):
         self.color = color
         self.model = model
